@@ -1,0 +1,22 @@
+# Core
+numpy
+matplotlib
+Pillow
+
+# ML / vision
+torch
+torchvision
+ultralytics
+open-clip-torch
+
+# EDA
+umap-learn
+imagehash
+pandas
+
+# OCR (Phase 6)
+easyocr
+
+# Notebooks
+ipykernel
+jupyterlab
