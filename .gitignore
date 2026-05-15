@@ -225,6 +225,9 @@ __marimo__/
 *.pth
 *.pt
 
+# Dataset label files (bundled with images in Roboflow export — redundant here)
+data/labeled/**/labels/*.txt
+
 # Images (not licensed for redistribution)
 *.jpg
 *.jpeg
