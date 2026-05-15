@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['bib']
+
+roboflow:
+  workspace: lilacs-workspace
+  project: race-vision-rmatv
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lilacs-workspace/race-vision-rmatv/dataset/1
