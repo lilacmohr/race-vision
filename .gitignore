@@ -247,6 +247,9 @@ data/labeled/**/labels/*.txt
 # YOLO/Ultralytics cache files
 *.cache
 
+# Internal planning docs
+running-vision-project-plan.md
+
 # Inference and training run outputs
 runs/
 models/runs/
