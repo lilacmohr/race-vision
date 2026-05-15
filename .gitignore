@@ -239,9 +239,14 @@ data/labeled/**/labels/*.txt
 *.bmp
 *.tiff
 *.webp
+*.avif
+*.AVIF
+*.heic
+*.HEIC
 
 # YOLO/Ultralytics cache files
 *.cache
 
 # Inference and training run outputs
 runs/
+models/runs/

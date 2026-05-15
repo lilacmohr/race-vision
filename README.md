@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 The labeled dataset is hosted on Roboflow (CC BY 4.0):
 
-1. Go to [race-vision on Roboflow Universe](https://universe.roboflow.com/lilacs-workspace/race-vision-rmatv)
+1. Go to [race-vision v1 on Roboflow Universe](https://universe.roboflow.com/lilacs-workspace/race-vision-rmatv/dataset/1)
 2. Click **Download Dataset** → format: **YOLOv8** → **download zip to computer**
 3. Unzip into `data/labeled/` so the structure is:
    ```
